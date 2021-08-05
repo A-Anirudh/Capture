@@ -79,7 +79,7 @@ const Cards = styled.div`
     flex-wrap:wrap;
 `
 const Card = styled.div`
-     /* flex-basis:20rem; */
+      flex-basis:20rem;
     .icon{
         display:flex;
         align-items:center;
@@ -89,6 +89,6 @@ const Card = styled.div`
             color: black;
             padding: 1rem;
         }
-    } 
+    }  
 `
 export default ServicesSection
