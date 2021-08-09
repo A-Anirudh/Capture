@@ -6,7 +6,7 @@ import teamwork from '../img/teamwork.svg'
 import home2 from '../img/home2.png'
 
 //Styles
-import { About, Description, Image, Hide } from '../Styles'
+import { About, Description, Image } from '../Styles'
 import styled from 'styled-components'
 
 
