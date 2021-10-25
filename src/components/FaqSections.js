@@ -2,9 +2,10 @@ import React from 'react'
 import styled from 'styled-components'
 
 import { About } from '../Styles'
+
 const FaqSections = () => {
     return (
-        <Faq>
+        <Faq >
             <h2>Any questions? <span>FAQ</span></h2>
             <div className='question'>
                 <h4>How do I start?</h4>

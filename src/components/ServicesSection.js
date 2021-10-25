@@ -10,9 +10,10 @@ import { About, Description, Image } from '../Styles'
 import styled from 'styled-components'
 
 
+
 const ServicesSection = () => {
     return (
-        <Services>
+        <Services >
             <Description>
                 <h2>High <span>quality</span> services</h2>
                 <Cards>

@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import { motion } from 'framer-motion'
 
 export const About = styled.div`
     min-height: 90vh;
